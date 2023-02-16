@@ -32,7 +32,7 @@ export default function Home() {
               t.src=v;s=b.getElementsByTagName(e)[0];
               s.parentNode.insertBefore(t,s)}(window, document,'script',
               'https://connect.facebook.net/en_US/fbevents.js');
-              fbq('init', '1615778792199358');
+              fbq('init', '1632651940232138');
               fbq('track', 'PageView');
 `}
         </script>
@@ -41,7 +41,7 @@ export default function Home() {
             height="1"
             width="1"
             style={{ display: "none" }}
-            src="https://www.facebook.com/tr?id=1615778792199358&ev=PageView&noscript=1"
+            src="https://www.facebook.com/tr?id=1632651940232138&ev=PageView&noscript=1"
             alt="fb"
           />
         </noscript>
