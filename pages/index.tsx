@@ -26,6 +26,11 @@ export default function Home() {
           content="mt704q4819e1tnfllmpbi1mdw0r0gx"
         />
         <link rel="icon" href="/favicon.ico" />
+        <script
+          type="text/javascript"
+          src="https://app.viral-loops.com/widgetsV2/core/loader.js"
+        ></script>
+
         <script>
           {`
              !function(f,b,e,v,n,t,s)
@@ -52,6 +57,11 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
+          <form-widget
+            mode="popup"
+            ucid="MAcee7nfoe6BgQQQB8txd9zuYiE"
+          ></form-widget>
+
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
